@@ -72,4 +72,3 @@ The app supports dark and light themes based on the user’s system preferences.
 - Add persistent local storage for theme and last viewed book
 - Add category bookmarks or reading list feature
 - Incorporate real-time API for dynamic book data
-"""
